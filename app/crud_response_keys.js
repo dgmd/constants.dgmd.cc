@@ -13,4 +13,6 @@ export const CRUD_RESPONSE_UPDATE_BLOCKS = 'updateBlocks';
 export const CRUD_RESPONSE_UPDATE_METAS = 'updateMetas';
 export const CRUD_RESPONSE_META = 'meta';
 export const CRUD_RESPONSE_META_KEY = 'metaKey';
-export const CRUD_RESPONSE_META_ID = 'metaId'; 
+export const CRUD_RESPONSE_META_ID = 'metaId';
+export const CRUD_RESPONSE_DB_ID = 'dbId';
+export const CRUD_RESPONSE_PAGE = 'page';
