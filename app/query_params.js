@@ -1,0 +1,9 @@
+export const QUERY_PARAM_DATABASE = 'd';
+export const QUERY_PARAM_BLOCKS_REQUEST = 'b';
+export const QUERY_PARAM_RELATIONS_REQUEST = 'r';
+export const QUERY_PARAM_PAGE_CURSOR_TYPE_REQUEST = 'c';
+export const QUERY_PARAM_PAGE_CURSOR_ID_REQUEST = 'i';
+
+export const QUERY_VALUE_PAGE_CURSOR_TYPE_ALL = 'a';
+export const QUERY_VALUE_PAGE_CURSOR_TYPE_SPECIFIC = 's';
+export const QUERY_VALUE_PAGE_CURSOR_TYPE_DEFAULT = 'd';
