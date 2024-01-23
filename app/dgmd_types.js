@@ -16,6 +16,7 @@ export const DGMD_BLOCK_TYPE_FILE_EXTERNAL = 'external';
 export const DGMD_BLOCK_TYPE_RELATION = 'relation';
 export const DGMD_BLOCK_TYPE_ICON = 'icon';
 export const DGMD_BLOCK_TYPE_COVER = 'cover';
+export const DGMD_BLOCK_TYPE_FORMULA = 'formula';
 
 
 export const DGMD_PRIMARY_DATABASE = 'DGMD_PRIMARY_DATABASE';

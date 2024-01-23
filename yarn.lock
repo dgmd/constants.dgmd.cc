@@ -908,6 +908,7 @@ __metadata:
     "@rollup/plugin-terser": "npm:^0.4.4"
     eslint: "npm:^8"
     eslint-config-next: "npm:14.0.4"
+    eslint-plugin-sort-exports: "npm:^0.8.0"
     next: "npm:14.0.4"
     react: "npm:^18"
     react-dom: "npm:^18"
@@ -1342,6 +1343,15 @@ __metadata:
   peerDependencies:
     eslint: ^3 || ^4 || ^5 || ^6 || ^7 || ^8
   checksum: f9b247861024bafc396c4bd3c9ac946604b3b23077251c98f23602aa22027a0c33a69157fd49564e4ff7f17b3678e5dc366a46c7ec42a09454d7cbce786d5001
+  languageName: node
+  linkType: hard
+
+"eslint-plugin-sort-exports@npm:^0.8.0":
+  version: 0.8.0
+  resolution: "eslint-plugin-sort-exports@npm:0.8.0"
+  peerDependencies:
+    eslint: ">=5.0.0"
+  checksum: 599b3b34389030cfadfdfb93c915497412b47191af2cc722edb887991657aabd4ffce683bebe8db8312d92426bbc8bb1456ead3d4e0d29cb7ae0ba40359f10b4
   languageName: node
   linkType: hard
 
