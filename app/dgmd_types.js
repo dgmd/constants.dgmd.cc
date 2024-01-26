@@ -6,7 +6,6 @@ export const DGMD_BLOCK_TYPE_DATE = 'date';
 export const DGMD_BLOCK_TYPE_EMAIL = 'email';
 export const DGMD_BLOCK_TYPE_EMOJI = 'emoji';
 export const DGMD_BLOCK_TYPE_FILE_EXTERNAL = 'external';
-export const DGMD_BLOCK_TYPE_FORMULA = 'formula';
 export const DGMD_BLOCK_TYPE_ICON = 'icon';
 export const DGMD_BLOCK_TYPE_ID = 'id';
 export const DGMD_BLOCK_TYPE_LAST_EDITED_TIME = 'last_edited_time'
@@ -40,4 +39,8 @@ export const DGMD_START_DATE = 'DGMD_START_DATE';
 export const DGMD_TIME_ZONE = 'DGMD_TIME_ZONE';
 export const DGMD_TYPE = 'TYPE';
 export const DGMD_VALUE = 'VALUE';
+
+export const DGMD_BLOCK_TYPE_FORMULA_STRING = 'DGMD_BLOCK_TYPE_FORMULA_STRING';
+export const DGMD_BLOCK_TYPE_FORMULA_BOOLEAN = 'DGMD_BLOCK_TYPE_FORMULA_BOOLEAN';
+export const DGMD_BLOCK_TYPE_FORMULA_DATE = 'DGMD_BLOCK_TYPE_FORMULA_DATE';
 
