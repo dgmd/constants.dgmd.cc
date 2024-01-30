@@ -17,16 +17,17 @@ export const DGMD_BLOCK_TYPE_RICH_TEXT = 'rich_text';
 export const DGMD_BLOCK_TYPE_SELECT = 'select';
 export const DGMD_BLOCK_TYPE_STATUS = 'status';
 export const DGMD_BLOCK_TYPE_TITLE = 'title';
-
 export const DGMD_BLOCK_TYPE_URL = 'url';
+
 export const DGMD_COLUMN_LISTS = 'DGMD_COLUMN_LISTS';
 export const DGMD_CURSOR_DATA = 'DGMD_CURSOR_DATA';
-export const DGMD_DATABASE_ID = 'DGMD_DATABASE_ID';
+export const DGMD_DATABASE_ID = 'DATABASE_ID';
 export const DGMD_DATABASE_TITLE = 'DGMD_DATABASE_TITLE';
 export const DGMD_END_DATE = 'DGMD_END_DATE';
 export const DGMD_KEY = 'KEY';
 export const DGMD_METADATA = 'METADATA';
 export const DGMD_PAGE_DATA = 'DGMD_PAGE_DATA';
+export const DGMD_PAGE_ID = 'PAGE_ID';
 export const DGMD_PARENT_ID = 'DGMD_PARENT_ID';
 export const DGMD_PARENT_TITLE = 'DGMD_PARENT_TITLE';
 export const DGMD_PARENT_TYPE = 'DGMD_PARENT_TYPE';
