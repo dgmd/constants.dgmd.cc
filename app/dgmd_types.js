@@ -42,6 +42,7 @@ export const DGMD_TIME_ZONE = 'TIME_ZONE';
 export const DGMD_TYPE = 'TYPE';
 export const DGMD_VALUE = 'VALUE';
 
+export const DGMD_CURSOR_DATA = 'CURSOR_DATA';
 export const DGMD_CURSOR_NEXT = 'CURSOR_NEXT';
 export const DGMD_CURSOR_HAS_MORE = 'CURSOR_HAS_MORE';
 
