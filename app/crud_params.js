@@ -9,6 +9,3 @@ export const CRUD_PARAM_UPDATE_BLOCK = 'ub';
 export const CRUD_PARAM_UPDATE_BLOCK_ID = 'ubi';
 
 export const CRUD_PARAM_UPDATE_META = 'um';
-export const CRUD_VALUE_ACTION_CREATE = 'c';
-export const CRUD_VALUE_ACTION_DELETE = 'd';
-export const CRUD_VALUE_ACTION_UPDATE = 'u';
