@@ -25,6 +25,7 @@ export const DGMD_BLOCK_TYPE_FORMULA_DATE = 'formula.date';
 
 export const DGMD_DATABASE_ID = 'DATABASE_ID';
 export const DGMD_DATABASE_TITLE = 'DATABASE_TITLE';
+export const DGMD_DESCRIPTION = 'DESCRIPTION';
 export const DGMD_END_DATE = 'END_DATE';
 export const DGMD_KEY = 'KEY';
 export const DGMD_METADATA = 'METADATA';
