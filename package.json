@@ -23,5 +23,5 @@
     "next": "^15.1.7",
     "rollup": "^4.34.7"
   },
-  "packageManager": "yarn@4.6.0"
+  "packageManager": "yarn@4.7.0"
 }
