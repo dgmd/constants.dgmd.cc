@@ -11,3 +11,5 @@ export const QUERY_PARAM_INCLUDE_RELATIONSHIPS = 'r';
 export const QUERY_PARAM_RESULT_COUNT = 'n';
 export const QUERY_VALUE_RESULT_COUNT_ALL = 'a';
 export const QUERY_PARAM_PRIMARY_TITLE_PROPERTY = 'p';
+
+export const QUERY_PARAM_PRIMARY_IDS_PROPERTY = 'x';
