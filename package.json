@@ -17,11 +17,11 @@
   },
   "devDependencies": {
     "@rollup/plugin-terser": "^0.4.4",
-    "eslint": "^9.20.1",
-    "eslint-config-next": "^15.1.7",
+    "eslint": "^9.23.0",
+    "eslint-config-next": "^15.2.4",
     "eslint-plugin-sort-exports": "^0.9.1",
-    "next": "^15.1.7",
-    "rollup": "^4.34.7"
+    "next": "^15.2.4",
+    "rollup": "^4.37.0"
   },
   "packageManager": "yarn@4.7.0"
 }
