@@ -18,6 +18,7 @@ export const DGMD_BLOCK_TYPE_RICH_TEXT = 'rich_text';
 export const DGMD_BLOCK_TYPE_SELECT = 'select';
 export const DGMD_BLOCK_TYPE_STATUS = 'status';
 export const DGMD_BLOCK_TYPE_TITLE = 'title';
+export const DGMD_BLOCK_TYPE_EXTERNAL_URL = 'external_url';
 export const DGMD_BLOCK_TYPE_URL = 'url';
 export const DGMD_BLOCK_TYPE_FILES = 'files';
 export const DGMD_BLOCK_TYPE_FORMULA_STRING = 'formula.string';
