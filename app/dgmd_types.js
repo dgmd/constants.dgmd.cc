@@ -6,6 +6,7 @@ export const DGMD_BLOCK_TYPE_DATE = 'date';
 export const DGMD_BLOCK_TYPE_EMAIL = 'email';
 export const DGMD_BLOCK_TYPE_EMOJI = 'emoji';
 export const DGMD_BLOCK_TYPE_FILE_EXTERNAL = 'external';
+export const DGMD_BLOCK_TYPE_FILE_UPLOAD = 'file_upload';
 export const DGMD_BLOCK_TYPE_ICON = 'icon';
 export const DGMD_BLOCK_TYPE_ID = 'id';
 export const DGMD_BLOCK_TYPE_LAST_EDITED_TIME = 'last_edited_time'
