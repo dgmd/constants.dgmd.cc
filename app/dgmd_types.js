@@ -24,6 +24,7 @@ export const DGMD_BLOCK_TYPE_FILES = 'files';
 export const DGMD_BLOCK_TYPE_FORMULA_STRING = 'formula.string';
 export const DGMD_BLOCK_TYPE_FORMULA_BOOLEAN = 'formula.boolean';
 export const DGMD_BLOCK_TYPE_FORMULA_DATE = 'formula.date';
+export const DGMD_BLOCK_TYPE_FORMULA_NUMBER = 'formula.number';
 
 export const DGMD_DATABASE_ID = 'DATABASE_ID';
 export const DGMD_DATABASE_TITLE = 'DATABASE_TITLE';
